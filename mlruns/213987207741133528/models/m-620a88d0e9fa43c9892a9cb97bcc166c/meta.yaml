@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ramiz/Desktop/Dissertation%20Final/phishing_project/mlruns/213987207741133528/models/m-620a88d0e9fa43c9892a9cb97bcc166c/artifacts
+creation_timestamp: 1752520941278
+experiment_id: '213987207741133528'
+last_updated_timestamp: 1752520946512
+model_id: m-620a88d0e9fa43c9892a9cb97bcc166c
+model_type: null
+name: RandomForest
+source_run_id: 4401aa831305444492509aae3bd092a5
+status: 2
+status_message: null

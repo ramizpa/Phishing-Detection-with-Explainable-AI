@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ramiz/Desktop/Dissertation%20Final/phishing_project/mlruns/213987207741133528/models/m-71948641261442288835579833b470a4/artifacts
+creation_timestamp: 1752521011670
+experiment_id: '213987207741133528'
+last_updated_timestamp: 1752521015069
+model_id: m-71948641261442288835579833b470a4
+model_type: null
+name: SVM
+source_run_id: 76e9b1e47ac64607b8f112153d0ffb4c
+status: 2
+status_message: null

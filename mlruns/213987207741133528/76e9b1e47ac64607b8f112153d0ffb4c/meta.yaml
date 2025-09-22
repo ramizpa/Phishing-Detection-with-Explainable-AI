@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ramiz/Desktop/Dissertation%20Final/phishing_project/mlruns/213987207741133528/76e9b1e47ac64607b8f112153d0ffb4c/artifacts
+end_time: 1752521015079
+entry_point_name: ''
+experiment_id: '213987207741133528'
+lifecycle_stage: active
+run_id: 76e9b1e47ac64607b8f112153d0ffb4c
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752520954879
+status: 3
+tags: []
+user_id: Ramiz

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Ramiz/Desktop/Dissertation%20Final/phishing_project/mlruns/213987207741133528/models/m-36fe5eac7bcd4f3ea47222fbabf4c743/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-36fe5eac7bcd4f3ea47222fbabf4c743
+model_size_bytes: 4842
+model_uuid: m-36fe5eac7bcd4f3ea47222fbabf4c743
+prompts: null
+run_id: de28ee656019464b834b6fefc3fcc08f
+utc_time_created: '2025-07-14 20:30:34.620240'

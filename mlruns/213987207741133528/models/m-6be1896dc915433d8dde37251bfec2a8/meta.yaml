@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ramiz/Desktop/Dissertation%20Final/phishing_project/mlruns/213987207741133528/models/m-6be1896dc915433d8dde37251bfec2a8/artifacts
+creation_timestamp: 1752525114204
+experiment_id: '213987207741133528'
+last_updated_timestamp: 1752525117242
+model_id: m-6be1896dc915433d8dde37251bfec2a8
+model_type: null
+name: model
+source_run_id: 4f8ed66e066c4721980310be6fed4ca4
+status: 2
+status_message: null

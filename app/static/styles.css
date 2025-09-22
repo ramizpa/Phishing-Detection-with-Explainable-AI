@@ -1,0 +1,21 @@
+/* Sidebar background and text */
+[data-testid="stSidebar"] {
+    background-color: #f7f9fc;
+}
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3 {
+    color: #333333;
+}
+
+/* Main content text */
+body {
+    color: #222222;
+    font-family: Arial, sans-serif;
+}
+
+/* Button styling */
+button[kind="primary"] {
+    background-color: #0066cc;
+    color: white;
+}
